@@ -1,4 +1,4 @@
-### Ola, sou Ryam Marques 👨‍💻 👋
+### Ola, sou Ryam Marques ✌️ 👨‍💻
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryaMarks&show_icons=true&theme=dark)
 
