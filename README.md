@@ -1,6 +1,6 @@
 ### Ola, sou Ryam Marques ✌️ 👨‍💻
 
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryaMarks&show_icons=true&theme=dark&local-e=pt-br)
+![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryaMarks&show_icons=true&theme=dark&locale=pt-br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryaMarks&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
