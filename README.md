@@ -1,13 +1,13 @@
-### Ola, sou Ryam Marques ✌️ 👨‍💻
+### Hi, I'm Ryam Marques ✌️ 👨‍💻
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryaMarks&show_icons=true&theme=dracula&locale=pt-br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryaMarks&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que uso no meu dia
+### Technologies I use in my day
 
 
-<div style='display: inline_block'></br>
+<div style='display: inline_block'></en>
     <img 
         align="center" 
         alt="HTML5" 
@@ -25,27 +25,18 @@
     />
     <img 
         align="center" 
-        alt="React" 
-        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-    />
-    <img 
-        align="center" 
-        alt="React  Native" 
-        src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-    />
-    <img 
-        align="center" 
         alt="Bootstrap" 
         src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
     />
     <img 
         align="center" 
-        alt="Sass" 
-        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+        alt="C#" 
+        src="https://img.shields.io/badge/C%23-%23_0078d4.svg?logo=csharp&logoColor=white"
     />
-</div><br/>
+    
+</div><en/>
 
-<div style='display: inline_block'></br>
+<div style='display: inline_block'></en>
     <img 
         align="center" 
         alt="Python" 
@@ -61,16 +52,11 @@
         alt="Heroku" 
         src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
     />
-    <img 
-        align="center" 
-        alt="AWS" 
-        src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
-    />
-</div><br/>
+</div><en/>
 
-Amo facilitar processos e atividades utilizando tecnologias de programação. O que posso facilitar na sua vida hoje ?
+I love facilitating processes and activities using programming technologies.
 
-## Ultimos projetos publicados:
+## Last Projects posted:
 - [Landing Page de academia com React]()
 - [Clone do aplicativo OLX com React Native]()
 - [Sistema de controle de estoque com Django Python]()
